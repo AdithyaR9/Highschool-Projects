@@ -3,11 +3,11 @@ class Main
 {
   public static void main(String[] args) 
   {
-     Scanner boi = new Scanner(System.in); 
+     Scanner scanner = new Scanner(System.in); 
      String name;
      
      System.out.print("Enter Your Name");
-     name = boi.next();
+     name = scanner.next();
      System.out.print("Hello "+ name + "!");
   }
 }
