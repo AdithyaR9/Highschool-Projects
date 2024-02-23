@@ -1,6 +1,6 @@
-# HelloUser
+# Highschool-Projects Consolidated
 
-Created December 2018
-Uploaded July 30 2021
+This is a consolidation of alot of the minor learning projects, games, and other stuff I did during Highschool
 
-This is a simple Scanner Application I created when I first learned about Scanners in Java. It asks the user for his/her name and then greets the user with the name they gave. 
+Uploaded: July 30 2021
+Consolidated: February 23 2024
